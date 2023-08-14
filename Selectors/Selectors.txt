@@ -1,0 +1,39 @@
+Element Selector
+h1 {
+	color: blue
+}
+
+
+Class Selector
+.red-heading {
+	color: red
+}
+Implement in
+Ex. <h2 class="red-heading">Text</h2>
+
+
+Id Selector
+#main {
+	color: red
+}
+Implement in
+Ex. <h2 id="main">Text</h2>
+
+Diff between Id and Class is that id is used only in 1 element and class can be used in any number of elements
+
+Attribute selector
+p[draggable] {
+	color: red
+}
+implies select all the paragraph elements with the attribute draggable
+Also can do
+p[draggable="false"] {
+	color: red;
+}
+
+
+Universal Selector
+* {
+color: red
+}
+Selects all
