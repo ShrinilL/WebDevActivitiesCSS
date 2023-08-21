@@ -1,0 +1,12 @@
+height or width expressed as px or %
+
+border: thickness style color
+also border extends outwards
+tags like border-top can be used for specific instructions
+border-width: px px px px top right bottom left or px px sets top-bottom and left-right
+
+padding-pushes border out by specified amt(note, height or width of the element remains same- the padding is extra)
+
+margin: px margin represents the outermost pt
+
+use div to create boxes
