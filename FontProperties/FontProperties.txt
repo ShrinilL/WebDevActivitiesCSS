@@ -1,0 +1,21 @@
+1px: 1/96 inch
+1pt: 1/72 inch
+Font size(ex in word) are in pts
+1em: 100% of parent
+1rem: 100% of root(usually html tag(the thing that encloses the entire code))
+
+
+Font-Weight:-
+normal,bold(keywords)
+lighter,bolder(relative to parent)
+number(100-900)
+
+
+Font-Family:-
+font name(if multiple words, enclose in "", backup generic font type
+
+
+Fonts
+fonts.google.com
+select fonts you like, go to the top right corner, select a font, remove the others, copy the link, paste it in the head element, after the style tag
+Also copy the css rule
