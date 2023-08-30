@@ -1,0 +1,4 @@
+Position(lowest element)
+Specificity(element<class<attribute<id)
+Type(external<internal<inline)
+Importance(!important keyword)
